@@ -4,7 +4,7 @@
     {
         public string DoLib2Work()
         {
-            return "Lib2 v1";
+            return "Lib2 v2";
         }
     }
 }
